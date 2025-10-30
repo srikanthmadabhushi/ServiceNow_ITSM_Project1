@@ -48,7 +48,7 @@ This project demonstrates how **AI and Flow Designer automation** can be integra
 ## 📸 Screenshots
 | Step | Screenshot |
 |------|-------------|
-| Flow Design | ![Flow Diagram](Diagrams/FlowDiagram.png) |
+| Flow Design | ![Flow Diagram](Diagrams/Flow Diagram.png)
 |Sample Incidnets| [Flow Setup](Screenshots/1.Samples Incidents.png)
 |Creating Custom Field|[Flow Process](Screenshots/2. Custom Feild.png)
 | Flow Designer Setup | ![Flow Setup](Screenshots/3. Action.png) |
