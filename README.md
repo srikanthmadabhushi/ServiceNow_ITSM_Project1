@@ -49,10 +49,10 @@ This project demonstrates how **AI and Flow Designer automation** can be integra
 | Step | Screenshot |
 |------|-------------|
 | Flow Design | ![Flow Diagram](Diagrams/FlowDiagram.png) |
-|Sample Incidnets| [Flow Setup](Screenshots/1. Samples Incidents)
-|Creating Custom Field|[Flow Process](Screenshots/2. Custom Feild)
-| Flow Designer Setup | ![Flow Setup](Screenshots/3. Action) |
-| Flow Designer Setup | ![Flow Setup](Screenshots/4. Incident Flow) |
+|Sample Incidnets| [Flow Setup](Screenshots/1. Samples Incidents.png)
+|Creating Custom Field|[Flow Process](Screenshots/2. Custom Feild.png)
+| Flow Designer Setup | ![Flow Setup](Screenshots/3. Action.png) |
+| Flow Designer Setup | ![Flow Setup](Screenshots/4. Incident Flow.png) |
 | Incident Results| ![Incident Result](Screenshots/5. Results.png) |
 
 ---
